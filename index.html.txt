@@ -1,4 +1,11 @@
 <html doctype>
-css 
-jquery
-javascript
+
+<head>
+<title>online shopping</title>
+</head>
+
+<body>
+<p>Welcome with us</p>
+</body>
+
+</html>
