@@ -6,6 +6,7 @@
 
 <body>
 <p>Welcome with us</p>
+<p>Shopping with us is more beautiful </p>
 </body>
 
 </html>
